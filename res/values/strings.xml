@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Way Fuel</string>
+    <string name="firebase_token">firebase_token</string>
+</resources>

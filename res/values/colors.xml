@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_color">#F3701C</color>
+    <color name="grey_bg">#E1E1E1</color>
+    <color name="grey">#F9F9F9</color>
+    <color name="grey_50">#1A1A1A</color>
+    <color name="text_black">#000000</color>
+    <color name="text_green">#1EAC81</color>
+
+    <color name="layout_bgs">#B3E1E1E1</color>
+    <color name="orange">#FAB005</color>
+    <color name="sky_blue">#228BE6</color>
+    <color name="grey_text">#6B6B6B</color>
+    <color name="payment_text">#2C2C2E</color>
+    <color name="red">#FF0000</color>
+    <color name="grey_25">#EDE9E9</color>
+</resources>
